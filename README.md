@@ -8,7 +8,7 @@ A very real person
 Now
 
 ### Where
-\[REDACTED\]
+[<img width="32" height="32" src="https://mail.protonmail.com/assets/favicon.ico" />][mail]
 
 ### Why
 Why not
@@ -18,9 +18,6 @@ The person not the medicine
 
 ### How
 I don't know either to be honest
-
-### Contacts
-[<img width="32" height="32" src="https://mail.protonmail.com/assets/favicon.ico" />][mail]
 
 [terraria]: https://www.terraria.org
 [mail]: mailto:arthri@protonmail.com
