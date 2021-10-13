@@ -24,7 +24,7 @@ Why not
 ---
 
 ### Which
-The person not the medicine
+The person not the disorder or the medicine(alright... my name *might* be based on Arthritis)
 
 ---
 
@@ -35,5 +35,5 @@ I don't know either to be honest
 
 
 
-[terraria]: https://www.terraria.org
-[mail]: mailto:arthri@protonmail.com
+[terraria]: https://www.terraria.org "Terraria Site"
+[mail]: mailto:arthri@protonmail.com "Email"
