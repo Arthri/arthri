@@ -14,7 +14,7 @@ Now
 ---
 
 ### Where
-[<img width="32" height="32" src="https://mail.protonmail.com/assets/favicon.ico" />][mail]
+[<img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />][mail]
 
 ---
 
@@ -36,4 +36,4 @@ I don't know either to be honest
 
 
 [terraria]: https://www.terraria.org "Terraria Site"
-[mail]: mailto:arthri@protonmail.com "Email"
+[mail]: mailto:arthryxate@gmail.com "Email"
