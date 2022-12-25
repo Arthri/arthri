@@ -23,11 +23,6 @@ Why not
 
 ---
 
-### Which
-The person not the disorder or the medicine(alright... my name *might* be based on Arthritis)
-
----
-
 ### How
 I don't know either to be honest
 
